@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import tabulate from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-tabulate@esm/index.mjs';
+import tabulate from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-tabulate@v0.2.1-esm/index.mjs';
 ```
 
 #### tabulate( collection )
@@ -104,7 +104,7 @@ The returned frequency table is an `array` of `arrays`. Each sub-array correspon
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import floor from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-floor@esm/index.mjs';
-import tabulate from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-tabulate@esm/index.mjs';
+import tabulate from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-tabulate@v0.2.1-esm/index.mjs';
 
 var vals;
 var arr;
